@@ -10,8 +10,13 @@ class BooksController < ApplicationController
   def create
     @book = Book.new(book_params)
     @book.save
-    redirect_to @book, notice: "書籍を登録しました。"
+    redirect_to @book, notice: "書籍を多分、登録しました。"
   end
+
+  def show
+    @book = Book.find(params[:id])
+  end
+
 
   private
 
