@@ -1,0 +1,10 @@
+ja:
+  shared:
+    header:
+      title: ★BookShelf★
+      home: ホーム
+      new_book: 本
+      new_registration: 新しく登録
+      edit_registration: 設定変更
+      log_out: ろぐあうと
+      log_in: ろぐいん
