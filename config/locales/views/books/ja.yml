@@ -9,5 +9,10 @@ ja:
       price_yen: "¥%{price}"
       publish_date: 発売日
       description: 商品の説明
-      edit: 編集
-      return: 戻る
+      edit: 編集しよう
+      return: 戻るよ
+      delete: 消すよ
+      modal_title: 書籍削除
+      question_book: "%{book}を削除しますか？"
+      delete_action: 削除するよー
+      chancel: きゃんせる
