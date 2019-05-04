@@ -9,6 +9,8 @@ ja:
         price: 値段
         publish_date: 発売日
         description: 詳細
+        new_image: が像
+        image: が像
     errors:
       messages:
         record_invalid: 'バリデーションに失敗しました: %{errors}'
