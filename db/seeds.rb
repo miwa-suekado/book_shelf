@@ -3,3 +3,6 @@ categories = %w(スパルタキャンプ・評論 人文・思想 社会・政�
 categories.each do |category|
   Category.create(name: category)
 end
+
+
+hhhhhhhhhhhhhhhhhh
